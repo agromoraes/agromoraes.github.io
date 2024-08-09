@@ -164,8 +164,9 @@ button:hover {
 
 /* Estilo para o rodapé */
 .footer {
-  background-color: #3333339f;
-  color: #fff;
+  background-color: #3333339f; 
+  height:5px
+  color:#fff;
   text-align: center;
   padding: 5px;
   position: fixed;
